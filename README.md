@@ -50,7 +50,7 @@ To digitize and streamline internship management by providing a web-based platfo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aayush52-bot/internship-tracker-web.git
+   git clone https://github.com/NirbhayKudale
    ```
 
 2. Move to XAMPP htdocs:
@@ -105,5 +105,11 @@ To digitize and streamline internship management by providing a web-based platfo
 Python Full Stack with Data Analyst Developer | BBA (Computer Applications)
 Maharashtra, India
 
-[![GitHub]()
-[![LinkedIn](https://www.linkedin.com/in/nirbhay-kudale-87ba21428)
+## Author
+
+**Nirbhay Kudale**
+Full Stack Developer | BBA (Computer Applications)
+Maharashtra, India
+
+[![GitHub](https://img.shields.io/badge/GitHub-NirbhayKudale-black?logo=github)](https://github.com/NirbhayKudale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nirbhay%20Kudale-blue?logo=linkedin)](https://www.linkedin.com/in/nirbhay-kudale-87ba21428)
