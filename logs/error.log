@@ -1,0 +1,18 @@
+2026-06-28 16:57:20 | Error: require_once(includes/db.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:57:20 | Exception: Failed opening required 'includes/db.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:57:22 | Error: require_once(includes/db.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:57:22 | Exception: Failed opening required 'includes/db.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:57:23 | Error: require_once(includes/db.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:57:23 | Exception: Failed opening required 'includes/db.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:17 | Error: require_once(includes/db.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:17 | Exception: Failed opening required 'includes/db.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:36 | Error: require_once(includes/db.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:36 | Exception: Failed opening required 'includes/db.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:40 | Error: require_once(includes/db.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:40 | Exception: Failed opening required 'includes/db.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:42 | Error: require_once(includes/db.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:42 | Exception: Failed opening required 'includes/db.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:43 | Error: require_once(includes/db.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:43 | Exception: Failed opening required 'includes/db.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:44 | Error: require_once(includes/db.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\internship_tracker\index.php on line 4
+2026-06-28 16:58:44 | Exception: Failed opening required 'includes/db.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\internship_tracker\index.php on line 4
